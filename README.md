@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <img src="/pic.jpg" width="800"/>
+  <img src="/picture.jpg" width="1000"/>
 </div>
 
 ---
